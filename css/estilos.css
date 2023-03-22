@@ -38,6 +38,19 @@ body{
     padding: 1cm;
 }
 
+#footer{
+    background-color:lightslategray;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm;
+    font-size: 0.8cm;
+}
+
+#footer p{
+    margin: 0;
+    text-align: center;
+}
 
 
 
