@@ -7,5 +7,6 @@ Un blog increible para [curso de Git y Github](https://platzi.com/clases/1557-gi
 * El flujo de trabajo de Github
 * El verdadero amor por las buenas practicas
 * Creado por sebas
+* Vi como fue implementado en Window, Linux y Mac
 
 ##Fin
