@@ -9,3 +9,5 @@ bueno vamos a exribir mucho mas
 respetando el archivo iniciar pero este sera cambiado por uno nuevo osea una 
 
 nueva version
+
+master 1
