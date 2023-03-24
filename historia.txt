@@ -10,4 +10,6 @@ respetando el archivo iniciar pero este sera cambiado por uno nuevo osea una
 
 nueva version
 
-master 1
+main 1
+
+main 2
